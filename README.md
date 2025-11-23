@@ -1,84 +1,91 @@
-
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
-<h3 align="center">Aspiring Data Analyst | Business Analyst | ML Enthusiast</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast | BI Developer</h3>
 
 <p align="center">
-🔍 Passionate about turning data into insights and solving real-world business problems  
-💡 Skilled in Power BI, Python, SQL, Excel, and Machine Learning  
-📊 Building dashboards, ML models, and analytics projects
+🌟 Passionate about transforming raw data into meaningful insights  
+📊 Skilled in Power BI, Python, SQL, Excel & Machine Learning  
+🚀 Building data-driven dashboards, models, and analytical solutions
 </p>
 
 ---
 
-## 🚀 About Me  
-- 📈 Aspiring **Data Analyst / Business Analyst**  
-- 🤖 Basic understanding of **Machine Learning & AI models**  
-- 📊 Strong in **Power BI, Excel, SQL & Python**  
-- 🎯 Focused on creating **business-focused analytical solutions**  
-- 🌱 Currently improving: DAX, Power Query, NLP, ML Algorithms  
-- 📫 Reach me at **pankajkumar.666y@gmail.com**
+## 🔥 About Me  
+- 📈 Aspiring **Data Analyst / Business Intelligence Analyst**  
+- 🤖 Hands-on experience in **Machine Learning & Data Science projects**  
+- 🧹 Strong in **Data Cleaning, Analysis, and Visualization**  
+- 📊 Expert in **Power BI (DAX, Power Query, Modeling)**  
+- 🐍 Skilled in Python libraries: Pandas, NumPy, Scikit-learn  
+- 📚 Currently learning **Deep Learning & Advanced ML**  
+- 🔗 Portfolio: *https://github.com/pankaj9553*  
+- 📫 Reach me at: **pankajkumar.666y@gmail.com**  
 
 ---
 
 ## 🛠️ Skills & Tools  
-### 🔸 Languages & Tools  
-- **Python** (Pandas, NumPy, Scikit-Learn)  
-- **SQL** (Joins, CTEs, Aggregations, Subqueries)  
-- **Power BI** (DAX, Power Query, Data Modelling)  
-- **Excel** (Pivot Tables, VLOOKUP, Dashboards)  
-- **Machine Learning** (Regression, Classification, EDA)  
-- **Git & GitHub**
 
-### 🔸 Core Strengths  
-- Data Cleaning & Transformation  
-- Dashboard Design  
-- Exploratory Data Analysis  
-- Statistical Problem Solving  
-- Business Insights & Storytelling  
+### 🔹 Programming & Analysis  
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
+- SQL (Joins, Window Functions, Subqueries)  
+- Excel (Pivot Tables, Dashboards, Functions)  
+
+### 🔹 Business Intelligence  
+- Power BI (DAX, Power Query, Data Modeling)  
+- Tableau (Visualization)  
+- Data Storytelling & Insights  
+
+### 🔹 Machine Learning  
+- Regression & Classification  
+- NLP (Bag of Words, TF-IDF, Lemmatization)  
+- Model Evaluation (Accuracy, Precision, F1, RMSE)  
+- Feature Engineering  
 
 ---
 
-## 📘 Featured Projects
+## 📘 Featured Projects  
 
-### 🔹 Power BI Projects  
+### ⭐ Power BI Projects  
 Repository: **PowerBI-Projects**  
 - Adidas Sales Dashboard  
-- Amazon Sales Analysis  
-- HR Analytics Dashboard  
-- Car Sales, Bike Sales, Pizza Sales, Road Accident Analysis  
-- Profit & Loss, E-commerce, SuperStore, Vrinda Store Dashboards  
+- Amazon Sales Analytics  
+- HR Analytics  
+- SuperStore, Pizza, Car Sales, EV Sales, etc.  
+- Road Accident Analysis  
+- Profit & Loss & E-commerce Dashboards  
 
-👉 *Interactive dashboards demonstrating strong data modelling, DAX logic, and business insights.*
+👉 *Showcases professional BI dashboards with DAX, data modeling, and business insights.*
 
 ---
 
-### 🔹 Machine Learning Projects  
+### ⭐ Machine Learning Projects  
 Repository: **ML-Projects**  
 - Car Price Prediction  
 - Laptop Price Prediction  
-- SMS Spam Classifier  
+- SMS Spam Detection  
 - Fake News Detection  
+- Duplicate Question Pairs  
 - Language Detection  
-- Emotions Classification  
+- Movie Recommendation System  
 - Twitter Sentiment Analysis  
-- Movie Recommender System  
+- Rainfall Prediction  
+- Olympic Data Analysis  
 
-👉 *Models include regression, classification, NLP, and similarity-based recommendations.*
+👉 *End-to-end ML/NLP projects with EDA, preprocessing, modelling & evaluation.*
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankaj9553&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9553&layout=compact" height="150" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neha12gour&show_icons=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha12gour&layout=compact" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me  
-📧 **Email:** pankajkumar.666y@gmail.com  
-🔗 **GitHub:** https://github.com/pankaj9553  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/pankaj9553/*
+📧 **Email:** pankajkumar.666y@gmail.com 
+🔗 **GitHub:** https://github.com/Neha12gour  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/pankaj9553/*  
 
 ---
 
