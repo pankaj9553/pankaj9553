@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | BI Developer</h3>
+<h3 align="center">Data Analyst | Business Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
-🌟 Passionate about transforming raw data into meaningful insights  
+🌟 Passionate about uncovering insights from data  
 📊 Skilled in Power BI, Python, SQL, Excel & Machine Learning  
-🚀 Building data-driven dashboards, models, and analytical solutions
+🚀 Building analytical dashboards, ML models, and business-focused solutions
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 📈 Aspiring **Data Analyst / Business Intelligence Analyst**  
-- 🤖 Hands-on experience in **Machine Learning & Data Science projects**  
-- 🧹 Strong in **Data Cleaning, Analysis, and Visualization**  
-- 📊 Expert in **Power BI (DAX, Power Query, Modeling)**  
+- 📈 Aspiring **Data Analyst / Business Analyst**  
+- 🤖 Hands-on experience in **Data Science & Machine Learning projects**  
+- 📊 Strong in **Power BI (DAX, Power Query, Data Modeling)**  
 - 🐍 Skilled in Python libraries: Pandas, NumPy, Scikit-learn  
-- 📚 Currently learning **Deep Learning & Advanced ML**  
+- 🧹 Expert in **Data Cleaning, EDA & Visualization**  
+- 📚 Currently learning **Advanced DAX & ML Algorithms**  
 - 🔗 Portfolio: *https://github.com/pankaj9553*  
 - 📫 Reach me at: **pankajkumar.666y@gmail.com**  
 
@@ -25,8 +25,8 @@
 
 ### 🔹 Programming & Analysis  
 - Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
-- SQL (Joins, Window Functions, Subqueries)  
-- Excel (Pivot Tables, Dashboards, Functions)  
+- SQL (Joins, Aggregations, Window Functions)  
+- Excel (Pivot Tables, Dashboards, Advanced Functions)  
 
 ### 🔹 Business Intelligence  
 - Power BI (DAX, Power Query, Data Modeling)  
@@ -35,9 +35,9 @@
 
 ### 🔹 Machine Learning  
 - Regression & Classification  
-- NLP (Bag of Words, TF-IDF, Lemmatization)  
-- Model Evaluation (Accuracy, Precision, F1, RMSE)  
+- NLP (Tokenization, TF-IDF, Text Cleaning)  
 - Feature Engineering  
+- Model Evaluation (Accuracy, Precision, Recall, F1)  
 
 ---
 
@@ -48,11 +48,12 @@ Repository: **PowerBI-Projects**
 - Adidas Sales Dashboard  
 - Amazon Sales Analytics  
 - HR Analytics  
-- SuperStore, Pizza, Car Sales, EV Sales, etc.  
+- Bike, Car, Pizza Sales Dashboards  
 - Road Accident Analysis  
 - Profit & Loss & E-commerce Dashboards  
+- SuperStore Analysis  
 
-👉 *Showcases professional BI dashboards with DAX, data modeling, and business insights.*
+👉 *Professional dashboards with clean modeling, DAX measures, and actionable business insights.*
 
 ---
 
@@ -69,22 +70,22 @@ Repository: **ML-Projects**
 - Rainfall Prediction  
 - Olympic Data Analysis  
 
-👉 *End-to-end ML/NLP projects with EDA, preprocessing, modelling & evaluation.*
+👉 *End-to-end ML/NLP solutions including EDA, preprocessing, model building & evaluation.*
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neha12gour&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha12gour&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pankaj9553&show_icons=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj9553&layout=compact" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me  
-📧 **Email:** pankajkumar.666y@gmail.com 
-🔗 **GitHub:** https://github.com/Neha12gour  
+📧 **Email:** pankajkumar.666y@gmail.com  
+🔗 **GitHub:** https://github.com/pankaj9553  
 🔗 **LinkedIn:** *https://www.linkedin.com/in/pankaj9553/*  
 
 ---
